@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Philosophical &#8211; Textual Indices</title>
+	<atom:link href="/category/philosophical/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Mobile software development</description>
+	<lastBuildDate>Sat, 28 Jan 2012 01:14:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>I Gotta Have Faith</title>
+		<link>/2011/03/i-gotta-have-faith/</link>
+		<pubDate>Tue, 22 Mar 2011 19:36:21 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Philosophical]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=40</guid>
+		<description><![CDATA[Faith is an interesting topic, and intermingles with hope on many occasions. Faith and Hope as stated by webster: Faith: noun &#8211; Something that is believed especially with strong conviction. Hope: noun &#8211;  Desire accompanied by expectation of or belief in fulfillment. Hope, hope really really wants something to happen, but goes forward cautiously, ever careful [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>

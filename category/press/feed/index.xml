@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Press &#8211; Textual Indices</title>
+	<atom:link href="/category/press/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Mobile software development</description>
+	<lastBuildDate>Sat, 28 Jan 2012 01:14:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Review of Refraction on The App Informer</title>
+		<link>/2011/05/review-of-refraction-on-the-app-informer/</link>
+		<pubDate>Sat, 14 May 2011 19:44:30 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Press]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=150</guid>
+		<description><![CDATA[We just received a stellar review over on TheAppInformer.com! We had been in contact via email with them for several days which is fun to be able to keep in touch with players of our game, but then to now see a review of our game online, it&#8217;s awesome! Head over to TheAppInformer.com and look [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>E-mail I sent out</title>
+		<link>/2011/05/e-mail-i-sent-out/</link>
+		<pubDate>Sat, 07 May 2011 18:26:58 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Press]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=144</guid>
+		<description><![CDATA[I put together this e-mail for someone that I contacted in regards to checking out our game. Figured I might as well post it here, enjoy :). Hello, Our indie game development studio, Textual Indices, has released a game for the Android platform. We just formed the company in late February and started work on [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>The Signal newspaper wrote an article about us</title>
+		<link>/2011/04/the-signal-newspaper-wrote-an-article-about-us/</link>
+		<pubDate>Wed, 20 Apr 2011 05:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Press]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=134</guid>
+		<description><![CDATA[Posted on CSUSignal.com Written by Wesley Riddle Textual Indices, a software company founded by three California State University Stanislaus students, just released their first product, a puzzle game for the Android platform. Refraction Lite, available on the Android Marketplace since March 30, has surpassed 6,000 downloads, and has received glowing reviews overall. &#8220;People love the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Textual Indices Launches Refraction For The Android Market</title>
+		<link>/2011/04/textual-indices-launches-refraction-for-the-android-market/</link>
+		<pubDate>Tue, 12 Apr 2011 05:50:50 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Press]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=93</guid>
+		<description><![CDATA[Coulterville, Calif.- April, 11, 2011 – Textual Indices, a new mobile development firm in Central California, today announced the launch of the full version of its laser based puzzle game Refraction on the Android Market. The lite version of Refraction was released March 30th, and received an incredibly positive response in its first week. Players [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Textual Indices</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Mobile software development</description>
+	<lastBuildDate>Sat, 28 Jan 2012 01:14:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Refraction 2</title>
+		<link>/2012/01/refraction-2/</link>
+		<pubDate>Sat, 28 Jan 2012 01:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[Zach]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=221</guid>
+		<description><![CDATA[So what have we been doing you might ask? Well, there hasn&#8217;t been much activity here (primarily because we assume almost no one reads this) but we have been busy.  Work on the Android version of Refraction stopped around August on v1.8.4.  We, like any eager developers, wanted to expand and take our successes elsewhere. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Reddit Username Verification</title>
+		<link>/2011/07/reddit-username-verification/</link>
+		<pubDate>Thu, 28 Jul 2011 15:58:17 +0000</pubDate>
+		<dc:creator><![CDATA[Zach]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=180</guid>
+		<description><![CDATA[For verification that we are who we say we are on reddit, our user names are: slick50zd1 brandonrisell lmao_zebong (this post will be removed once we are done with it)]]></description>
+		</item>
+		<item>
+		<title>Bugs, In our game? It&#8217;s (now) less likely than you think.</title>
+		<link>/2011/06/bugs-in-our-game-its-now-less-likely-than-you-think/</link>
+		<comments>/2011/06/bugs-in-our-game-its-now-less-likely-than-you-think/#comments</comments>
+		<pubDate>Wed, 08 Jun 2011 04:53:20 +0000</pubDate>
+		<dc:creator><![CDATA[Zach]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Zach]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=159</guid>
+		<description><![CDATA[Brandon asked me (Zach) to do a blog outlining some of the recent fixes we have coming with 1.5.5. However considering we have a pretty constant weekly update cycle I&#8217;d like to try to do a blog for every weekly update. We&#8217;ll see. So. In 1.5.5 we have some pretty substantial bug fixes coming, that [&#8230;]]]></description>
+		<wfw:commentRss>/2011/06/bugs-in-our-game-its-now-less-likely-than-you-think/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

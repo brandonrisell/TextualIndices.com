@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Refraction</title>
+	<atom:link href="/refraction/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Mobile software development</description>
+	<lastBuildDate>Sat, 03 Sep 2011 00:54:50 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Problem-solving Paralysis &#124; Action-Reaction</title>
+		<link>/refraction/comment-page-1/#comment-122</link>
+		<dc:creator><![CDATA[Problem-solving Paralysis &#124; Action-Reaction]]></dc:creator>
+		<pubDate>Sat, 03 Sep 2011 00:54:50 +0000</pubDate>
+		<guid isPermaLink="false">http://textualindices.com/?page_id=28#comment-122</guid>
+		<description><![CDATA[[...] I&#8217;ve been playing Refraction on my Android phone. The goal is to get the colored light beams from the triangles to the round [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] I&#8217;ve been playing Refraction on my Android phone. The goal is to get the colored light beams from the triangles to the round [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

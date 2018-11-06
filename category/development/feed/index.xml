@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Development &#8211; Textual Indices</title>
+	<atom:link href="/category/development/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Mobile software development</description>
+	<lastBuildDate>Sat, 28 Jan 2012 01:14:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>It&#8217;s been a while</title>
+		<link>/2011/08/its-been-a-while/</link>
+		<pubDate>Sat, 13 Aug 2011 15:40:09 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Day-to-Day]]></category>
+		<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=198</guid>
+		<description><![CDATA[I think the last post I did talked about how we were going to get so much done this summer and how active we were going to be. Oy, I overestimated our ability to juggle responsibilities ;). We did work on a lot, but I also feel like development slowed quite a bit, perhaps because [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>The Refraction Story (aka &#8216;The Blind Leading the Blind&#8217;)</title>
+		<link>/2011/07/the-refraction-story-aka-the-blind-leading-the-blind/</link>
+		<comments>/2011/07/the-refraction-story-aka-the-blind-leading-the-blind/#comments</comments>
+		<pubDate>Thu, 14 Jul 2011 16:16:04 +0000</pubDate>
+		<dc:creator><![CDATA[Zach]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=181</guid>
+		<description><![CDATA[Origins: About a year or so ago Sean and Brandon had been trying to get a project started that would help elevate them above the above the sea of computer science major’s when it came to job application time.  It initially went nowhere.  Fast forward to late 2010, I (Zach) met Sean, and reintroduced myself [&#8230;]]]></description>
+		<wfw:commentRss>/2011/07/the-refraction-story-aka-the-blind-leading-the-blind/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Wow!</title>
+		<link>/2011/07/wow/</link>
+		<pubDate>Sun, 03 Jul 2011 20:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Day-to-Day]]></category>
+		<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=171</guid>
+		<description><![CDATA[So we are as of now featured on the Android Market! It&#8217;s been a crazy weekend, mostly because it&#8217;s a lot to take in. I mean don&#8217;t get us wrong, this has been what we&#8217;ve been hoping for for months now, but it&#8217;s just crazy. We always see all the apps that get featured and [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>E-mail I sent out</title>
+		<link>/2011/05/e-mail-i-sent-out/</link>
+		<pubDate>Sat, 07 May 2011 18:26:58 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon]]></dc:creator>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Press]]></category>
+
+		<guid isPermaLink="false">http://textualindices.com/?p=144</guid>
+		<description><![CDATA[I put together this e-mail for someone that I contacted in regards to checking out our game. Figured I might as well post it here, enjoy :). Hello, Our indie game development studio, Textual Indices, has released a game for the Android platform. We just formed the company in late February and started work on [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
